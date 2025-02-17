@@ -14,7 +14,7 @@
 <img title="You are here" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ## About
-I'm a full stack developer with over 20 years of expereince.  Currently I'm the Director of Technology with CIMA General Contractors in Flower Mound Texas.  I am a father of 4, granfather of 6.  I have 4 dogs and 1 cat.  
+I'm a full stack developer with over 20 years of expereince.  Currently I'm the Director of Technology with CIMA General Contractors in Flower Mound Texas.  I am a father of 4, grandfather of 6.  I have 4 dogs and 1 cat.  
 
 ## My Repo's
 Most of the work that I have done that is in GitHub is part of private repo's.  I'm hoping to expand on working with others on projects to showcase my skills.
